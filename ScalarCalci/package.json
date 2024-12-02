@@ -1,0 +1,11 @@
+{
+  "name": "calarcalci",
+  "version": "1.0.1",
+  "description": "This is a Calci module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salman Khan",
+  "license": "ISC"
+}
